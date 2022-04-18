@@ -1,12 +1,12 @@
 import './App.css'
-import ComunicationProps from './ComunicationProps'
+import Section3 from './components/Section3'
 
 function App() {
  
 
   return (
     <>
-      <div>Self Learning ReactJS</div>
+      <Section3 />
     </>
   )
 }
